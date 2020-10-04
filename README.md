@@ -11,7 +11,7 @@ Contributors:
 - MinimumSky5		(SciDefs)
 - Sigma88		(advice and support)
 - GregroxMun		(IC support)
-
+- Borv			(New orbit tweaks and Compatibility patches)
 
 About
 -----
@@ -19,6 +19,7 @@ New Horizons is a planet pack for Kerbal Space Program. Originally designed as a
 
 This pack completely rearranges the stock system and introduced 19 more bodies to visit and explore, along with compatibility and many features to improve gameplay.
 
+NOTE:My changes are purely going to be dealing with Orbital Parameters and adding new and working Compatibility patches. I have never been able to successfully make a planet 
 
 Instructions
 ------------
