@@ -54,3 +54,9 @@ Vanilla Bodies Texture Overhauls
 	
 Community Resource Pack Compatibility
 - Adds support for custom resources for mods such as the USI catalogue, Extra-Planetary Launchpads & many more.
+
+
+Attributions:
+-------------
+KillAshley: Original Mod author
+GregroxMun: Current Maintainer and origin of my fork. 
