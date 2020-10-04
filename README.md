@@ -59,4 +59,5 @@ Community Resource Pack Compatibility
 Attributions:
 -------------
 KillAshley: Original Mod author
+
 GregroxMun: Current Maintainer and origin of my fork. 
