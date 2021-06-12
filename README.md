@@ -11,15 +11,13 @@ Contributors:
 - MinimumSky5		(SciDefs)
 - Sigma88		(advice and support)
 - GregroxMun		(IC support)
-- Borv			(New orbit tweaks and Compatibility patches)
+- Borv			(New tweaks, Compatibility patches and Updates to 1.11)
 
 About
 -----
 New Horizons is a planet pack for Kerbal Space Program. Originally designed as a small project to help KillAshley get back into the game.
 
-This pack completely rearranges the stock system and introduced 19 more bodies to visit and explore, along with compatibility and many features to improve gameplay.
-
-NOTE:My changes are purely going to be dealing with Orbital Parameters and adding new and working Compatibility patches. I have never been able to successfully make a planet. Also I have an idea to add in some cloud layers based on NHVE or, more likely just add and directly integrate them due to it being in the Public Domain and iterate from there.-Borv
+This pack completely rearranges the stock system and introduced 19 more bodies to visit and explore, along with compatibility and many features to improve gameplay.  
 
 Instructions
 ------------
